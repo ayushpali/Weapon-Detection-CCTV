@@ -1,5 +1,3 @@
-# Weapon-Detection-CCTV
-
 
 # 🔫 Smart Weapon Detection System using YOLOv8
 
@@ -51,7 +49,7 @@ weapon-detection-cctv/
 2. Create virtual environment:
    ```bash
    python -m venv venv
-   venv\Scripts\activate  # On Windows
+   venv\Scripts\activate
    ```
 
 3. Install dependencies:
@@ -77,12 +75,8 @@ Press **Q** to quit the video preview.
 
 ## 📷 Sample Output
 
-*You can add a screenshot here after testing.*  
-Save a frame of detection and upload it like this:
+(outputs/detected_frames/frame_0.jpg)
 
-```
-![sample](outputs/detected_frames/frame_0.jpg)
-```
 
 ---
 
@@ -100,7 +94,3 @@ Save a frame of detection and upload it like this:
 [GitHub](https://github.com/ayushpali/Weapon-Detection-CCTV)
 
 ---
-
-## ⚖️ License
-
-This project is under the [MIT License](LICENSE).
