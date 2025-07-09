@@ -1,6 +1,11 @@
 
 # 🔫 Smart Weapon Detection System using YOLOv8
 
+> Real-time AI-powered surveillance system for weapon detection using YOLOv8 and OpenCV.
+
+![Preview](preview.jpg)
+
+
 This project is a real-time CCTV-based object detection system that identifies weapons (like guns or knives) using a deep learning model. It was built to simulate a security tool for public safety surveillance.
 
 ---
